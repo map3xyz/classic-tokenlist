@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x169a4d7aB1244eB57433082B94d8ded5BB97483f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "28b37e1c-5919-453f-947b-57106699f17a",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x169a4d7aB1244eB57433082B94d8ded5BB97483f"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0x169a4d7aB1244eB57433082B94d8ded5BB97483f/logo.png"
+  },
+  "name": "BitUnits Fermium",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "BFM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

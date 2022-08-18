@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xd6dF0C579f2A65049a893fDaEC9fCE098CC19F87",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "37e1b49a-7793-40de-8606-3cffdcb1e1f1",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xd6dF0C579f2A65049a893fDaEC9fCE098CC19F87"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0xd6dF0C579f2A65049a893fDaEC9fCE098CC19F87/logo.png"
+  },
+  "name": "UniversalCoin X",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "UVCX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xB932b16ccc42917dF3608bfC1519e948b42fdFD9",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "fc89ad3c-c51d-4e4c-93ed-bf709c2e4598",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xB932b16ccc42917dF3608bfC1519e948b42fdFD9"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0xB932b16ccc42917dF3608bfC1519e948b42fdFD9/logo.png"
+  },
+  "name": "INTRO TOKEN",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "NTRO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

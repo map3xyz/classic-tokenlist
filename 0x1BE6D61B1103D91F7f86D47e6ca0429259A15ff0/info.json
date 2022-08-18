@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x1BE6D61B1103D91F7f86D47e6ca0429259A15ff0",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "2b3375b1-414a-49a8-b35e-765da0330f51",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x1BE6D61B1103D91F7f86D47e6ca0429259A15ff0"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0x1BE6D61B1103D91F7f86D47e6ca0429259A15ff0/logo.png"
+  },
+  "name": "Bitcoin Classic Token",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "BCT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x690D4d5e3722e140fCa16e25E7A579588D93eB75",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9eb5fbea-be99-421f-9940-6707b70825f2",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x690D4d5e3722e140fCa16e25E7A579588D93eB75"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0x690D4d5e3722e140fCa16e25E7A579588D93eB75/logo.png"
+  },
+  "name": "BitUnits Titan",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "TITAN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

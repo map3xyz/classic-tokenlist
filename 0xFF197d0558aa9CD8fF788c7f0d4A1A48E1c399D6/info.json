@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xFF197d0558aa9CD8fF788c7f0d4A1A48E1c399D6",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "8c3d583f-a04f-4223-81e9-f8f52fc39d15",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xFF197d0558aa9CD8fF788c7f0d4A1A48E1c399D6"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0xFF197d0558aa9CD8fF788c7f0d4A1A48E1c399D6/logo.png"
+  },
+  "name": "DrakXat",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "KXATG1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

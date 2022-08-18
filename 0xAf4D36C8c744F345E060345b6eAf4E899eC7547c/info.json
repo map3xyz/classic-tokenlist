@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xAf4D36C8c744F345E060345b6eAf4E899eC7547c",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "9b8fbb84-5992-4d9f-a3a0-2021cd1bc6e1",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xAf4D36C8c744F345E060345b6eAf4E899eC7547c"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0xAf4D36C8c744F345E060345b6eAf4E899eC7547c/logo.png"
+  },
+  "name": "Dusk",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "DUSKG1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

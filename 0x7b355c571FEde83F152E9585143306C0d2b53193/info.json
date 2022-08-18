@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x7b355c571FEde83F152E9585143306C0d2b53193",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f356fb4f-c924-4969-a260-48044202e758",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x7b355c571FEde83F152E9585143306C0d2b53193"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0x7b355c571FEde83F152E9585143306C0d2b53193/logo.png"
+  },
+  "name": "BitUnits Proof of Work Reward",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "BPOWR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

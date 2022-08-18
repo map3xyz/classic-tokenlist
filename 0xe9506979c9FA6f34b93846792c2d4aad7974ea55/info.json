@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xe9506979c9FA6f34b93846792c2d4aad7974ea55",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "74852ed3-cd9e-4b42-b05d-9d3e962a61ad",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xe9506979c9FA6f34b93846792c2d4aad7974ea55"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0xe9506979c9FA6f34b93846792c2d4aad7974ea55/logo.png"
+  },
+  "name": "Ellekner",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "ELG1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

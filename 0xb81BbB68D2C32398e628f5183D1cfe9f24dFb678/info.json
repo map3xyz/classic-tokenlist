@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xb81BbB68D2C32398e628f5183D1cfe9f24dFb678",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f3ef1850-9b96-48e6-9772-70e97a545485",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xb81BbB68D2C32398e628f5183D1cfe9f24dFb678"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0xb81BbB68D2C32398e628f5183D1cfe9f24dFb678/logo.png"
+  },
+  "name": "USMilCoin",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "UMC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

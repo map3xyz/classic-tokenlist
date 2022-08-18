@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x0f54903F62Dc03DFBE1d99064B41a65D461F61b9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d2200658-20a3-4ede-98e2-940700944f1d",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x0f54903F62Dc03DFBE1d99064B41a65D461F61b9"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0x0f54903F62Dc03DFBE1d99064B41a65D461F61b9/logo.png"
+  },
+  "name": "ETC PYRAMID",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "ETCP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x50fA6146E86deAd56bf9E8e4655DFc2b5235D355",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "428cfabf-ee61-4901-b478-55936d7dc689",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x50fA6146E86deAd56bf9E8e4655DFc2b5235D355"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0x50fA6146E86deAd56bf9E8e4655DFc2b5235D355/logo.png"
+  },
+  "name": "Merainer",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "MERG1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

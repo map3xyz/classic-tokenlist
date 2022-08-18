@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x4a3a14d47634E0712B1Aa33f17EC31316a0D5BAB",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "67fba13f-3a3f-4973-8270-e50c581134df",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x4a3a14d47634E0712B1Aa33f17EC31316a0D5BAB"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0x4a3a14d47634E0712B1Aa33f17EC31316a0D5BAB/logo.png"
+  },
+  "name": "Litecoin Classic Token",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "LCT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

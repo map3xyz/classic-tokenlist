@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x76d0184CF511788032A74a1FB91146e63F43dd53",
+  "color": null,
+  "decimals": 5,
+  "description": null,
+  "id": "67123615-59b9-45f3-9833-cc4d2cdc20b2",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x76d0184CF511788032A74a1FB91146e63F43dd53"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0x76d0184CF511788032A74a1FB91146e63F43dd53/logo.png"
+  },
+  "name": "UniversalCoin",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "UVC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

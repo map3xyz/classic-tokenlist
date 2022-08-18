@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x5046E6b2C9D11458bC3718e0cF5Bc8557bCCf5dc",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "e0cd91d7-8adc-451d-80df-07bd5aa46d69",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x5046E6b2C9D11458bC3718e0cF5Bc8557bCCf5dc"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0x5046E6b2C9D11458bC3718e0cF5Bc8557bCCf5dc/logo.png"
+  },
+  "name": "Wahdereau",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "WADRG1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

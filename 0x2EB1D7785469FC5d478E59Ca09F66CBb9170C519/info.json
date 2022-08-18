@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x2EB1D7785469FC5d478E59Ca09F66CBb9170C519",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8ad58821-af8f-4692-8b1d-c49e80aebd75",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x2EB1D7785469FC5d478E59Ca09F66CBb9170C519"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0x2EB1D7785469FC5d478E59Ca09F66CBb9170C519/logo.png"
+  },
+  "name": "C3D Network",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "C3D",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

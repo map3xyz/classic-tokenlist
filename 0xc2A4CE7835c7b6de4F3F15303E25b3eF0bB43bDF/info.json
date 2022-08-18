@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xc2A4CE7835c7b6de4F3F15303E25b3eF0bB43bDF",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "011ddf5a-cb53-4754-8eeb-57e8ee15a22f",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xc2A4CE7835c7b6de4F3F15303E25b3eF0bB43bDF"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0xc2A4CE7835c7b6de4F3F15303E25b3eF0bB43bDF/logo.png"
+  },
+  "name": "Spike",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "SPKG1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

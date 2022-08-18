@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xD4729a47FFDBDd190a015BB0C29fC613c5aD3cFE",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "383cb417-d9f7-44a3-a910-fc0c13e9ac30",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xD4729a47FFDBDd190a015BB0C29fC613c5aD3cFE"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0xD4729a47FFDBDd190a015BB0C29fC613c5aD3cFE/logo.png"
+  },
+  "name": "BCash Classic",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "BCHC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

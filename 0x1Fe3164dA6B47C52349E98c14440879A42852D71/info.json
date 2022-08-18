@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x1Fe3164dA6B47C52349E98c14440879A42852D71",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ddfc7364-b4ff-4771-93c5-bcd02465d1d6",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x1Fe3164dA6B47C52349E98c14440879A42852D71"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0x1Fe3164dA6B47C52349E98c14440879A42852D71/logo.png"
+  },
+  "name": "Classic Cannabis Joints",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "WEED",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

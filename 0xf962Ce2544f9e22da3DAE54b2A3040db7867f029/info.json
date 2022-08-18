@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xf962Ce2544f9e22da3DAE54b2A3040db7867f029",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "7cb7a0c2-deb0-4074-a3ab-6bbeb68d0eec",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xf962Ce2544f9e22da3DAE54b2A3040db7867f029"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0xf962Ce2544f9e22da3DAE54b2A3040db7867f029/logo.png"
+  },
+  "name": "Gorxon",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "GRXG1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

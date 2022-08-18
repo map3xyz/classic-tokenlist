@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x1e797Ce986C3CFF4472F7D38d5C4aba55DfEFE40",
+  "color": null,
+  "decimals": 15,
+  "description": null,
+  "id": "20c0292f-5d0d-4c8a-a0bd-7b50e8cef920",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x1e797Ce986C3CFF4472F7D38d5C4aba55DfEFE40"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0x1e797Ce986C3CFF4472F7D38d5C4aba55DfEFE40/logo.png"
+  },
+  "name": "BCDN",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "BCDN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

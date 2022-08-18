@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x8900f34372f27Ebb5881D4eC6b35844A3655CCFc",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "93dda573-bf0a-4f1b-9bc1-200476a0c106",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x8900f34372f27Ebb5881D4eC6b35844A3655CCFc"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0x8900f34372f27Ebb5881D4eC6b35844A3655CCFc/logo.png"
+  },
+  "name": "Phoenix",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "PHX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xAC55641Cbb734bdf6510d1bBd62E240c2409040f",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "eee21ad3-647c-4c37-943a-633893740269",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xAC55641Cbb734bdf6510d1bBd62E240c2409040f"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0xAC55641Cbb734bdf6510d1bBd62E240c2409040f/logo.png"
+  },
+  "name": "Saturn Classic DAO Token",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "SATURN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

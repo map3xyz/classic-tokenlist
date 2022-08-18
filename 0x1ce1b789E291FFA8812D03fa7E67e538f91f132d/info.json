@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x1ce1b789E291FFA8812D03fa7E67e538f91f132d",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "9fbaff45-0b4c-4cbb-90d9-dff030654a3f",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x1ce1b789E291FFA8812D03fa7E67e538f91f132d"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0x1ce1b789E291FFA8812D03fa7E67e538f91f132d/logo.png"
+  },
+  "name": "Unity classic token",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "UXT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

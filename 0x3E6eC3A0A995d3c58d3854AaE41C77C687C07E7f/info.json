@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x3E6eC3A0A995d3c58d3854AaE41C77C687C07E7f",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "62d88809-fe1c-43d4-905c-543798469207",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x3E6eC3A0A995d3c58d3854AaE41C77C687C07E7f"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0x3E6eC3A0A995d3c58d3854AaE41C77C687C07E7f/logo.png"
+  },
+  "name": "42 Coin",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "42",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

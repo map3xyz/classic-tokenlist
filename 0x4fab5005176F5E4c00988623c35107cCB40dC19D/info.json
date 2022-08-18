@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x4fab5005176F5E4c00988623c35107cCB40dC19D",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "1b6d431e-3152-4bcd-ba05-bb2105b62646",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x4fab5005176F5E4c00988623c35107cCB40dC19D"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0x4fab5005176F5E4c00988623c35107cCB40dC19D/logo.png"
+  },
+  "name": "Qelax",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "QLXG1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

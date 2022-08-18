@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xDF23a076b82a08cEFe696346DB702BBDD86838Bf",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "a99c08c0-6f21-435c-abfc-392766fa4779",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xDF23a076b82a08cEFe696346DB702BBDD86838Bf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0xDF23a076b82a08cEFe696346DB702BBDD86838Bf/logo.png"
+  },
+  "name": "Vylingx",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "VYLG1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

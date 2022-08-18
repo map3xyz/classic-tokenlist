@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x171040cd10f204F3b257e45b41ce65D36150558C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "34b19cf0-4676-4eb1-a249-bf7baf8cbd5f",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x171040cd10f204F3b257e45b41ce65D36150558C"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0x171040cd10f204F3b257e45b41ce65D36150558C/logo.png"
+  },
+  "name": "eBOMB",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "POW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

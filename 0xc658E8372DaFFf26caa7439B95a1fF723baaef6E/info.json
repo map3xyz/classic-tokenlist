@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xc658E8372DaFFf26caa7439B95a1fF723baaef6E",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "cd1c36a8-b738-4ebc-a303-2dc7e4239a3c",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xc658E8372DaFFf26caa7439B95a1fF723baaef6E"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0xc658E8372DaFFf26caa7439B95a1fF723baaef6E/logo.png"
+  },
+  "name": "Flowejin",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "FLOWG1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

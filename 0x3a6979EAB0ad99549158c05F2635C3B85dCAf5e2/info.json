@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x3a6979EAB0ad99549158c05F2635C3B85dCAf5e2",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "cf5854c5-af08-4f60-bad5-e294e0e8eaec",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x3a6979EAB0ad99549158c05F2635C3B85dCAf5e2"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0x3a6979EAB0ad99549158c05F2635C3B85dCAf5e2/logo.png"
+  },
+  "name": "Blazenite",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "BLZG1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

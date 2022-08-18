@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x24ccaAaE74041985e3D75712D5cce63b0bD9C4A3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9883bfd7-dfff-4cbe-98ff-ae2abded3667",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x24ccaAaE74041985e3D75712D5cce63b0bD9C4A3"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0x24ccaAaE74041985e3D75712D5cce63b0bD9C4A3/logo.png"
+  },
+  "name": "BitUnits Brazil",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "BRZL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xf8af8f48ba1743ccb0001778070e4ce189225e90",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "2c422d89-91a8-4740-8a47-4b089797e89d",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xf8af8f48ba1743ccb0001778070e4ce189225e90"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0xf8af8f48ba1743ccb0001778070e4ce189225e90/logo.png"
+  },
+  "name": "USVeteranToken",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "USVT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

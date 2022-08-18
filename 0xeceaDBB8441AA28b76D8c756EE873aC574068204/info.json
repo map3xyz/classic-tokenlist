@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xeceaDBB8441AA28b76D8c756EE873aC574068204",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "44720cb7-e463-4f99-92f8-490d464121aa",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xeceaDBB8441AA28b76D8c756EE873aC574068204"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0xeceaDBB8441AA28b76D8c756EE873aC574068204/logo.png"
+  },
+  "name": "BitUnits Europa",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "OPA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

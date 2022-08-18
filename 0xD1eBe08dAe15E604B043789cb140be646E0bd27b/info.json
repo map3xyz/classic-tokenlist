@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xD1eBe08dAe15E604B043789cb140be646E0bd27b",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "cf21c31a-0729-44e1-a4c0-20c3552d7a5d",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xD1eBe08dAe15E604B043789cb140be646E0bd27b"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0xD1eBe08dAe15E604B043789cb140be646E0bd27b/logo.png"
+  },
+  "name": "BitUnits HyperBytes",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "BHB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

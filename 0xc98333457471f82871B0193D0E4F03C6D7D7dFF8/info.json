@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xc98333457471f82871B0193D0E4F03C6D7D7dFF8",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "b571c468-4422-4b10-981c-7b454772578b",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xc98333457471f82871B0193D0E4F03C6D7D7dFF8"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0xc98333457471f82871B0193D0E4F03C6D7D7dFF8/logo.png"
+  },
+  "name": "Xarrk",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "ARKG1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

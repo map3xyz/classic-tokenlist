@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xC2E0bC52D1995dF11949425cfdf78D0B6D2cfE0a",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "3eae1cb6-4df0-44a7-8a89-0d2d29eab626",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xC2E0bC52D1995dF11949425cfdf78D0B6D2cfE0a"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0xC2E0bC52D1995dF11949425cfdf78D0B6D2cfE0a/logo.png"
+  },
+  "name": "Wayn",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "WAYG1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

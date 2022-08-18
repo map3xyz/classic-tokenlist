@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xC8671e3eAAd0793de26c4a7Ba5ca10a992a80c7A",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "3c4e49e5-c4f0-4001-aa65-95eafe6eafdc",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xC8671e3eAAd0793de26c4a7Ba5ca10a992a80c7A"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0xC8671e3eAAd0793de26c4a7Ba5ca10a992a80c7A/logo.png"
+  },
+  "name": "kwhcredit",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "Euro",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

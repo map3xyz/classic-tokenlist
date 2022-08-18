@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x5BEb463647b1Fd55D3F876E9b042c27Aa63F4bA8",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "03247c98-2512-4ded-89fb-e4e463d972fc",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x5BEb463647b1Fd55D3F876E9b042c27Aa63F4bA8"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/classic-tokenlist/master/0x5BEb463647b1Fd55D3F876E9b042c27Aa63F4bA8/logo.png"
+  },
+  "name": "Fifty-Thousand Coin",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "FTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
