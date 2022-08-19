@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x4479B4e96252B829934bA0f8fb8f5c96883DA7E5",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "a0cf11c2-eedd-469d-82cf-797218a71e39",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x4479B4e96252B829934bA0f8fb8f5c96883DA7E5"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0x4479B4e96252B829934bA0f8fb8f5c96883DA7E5/logo.png"
+  },
+  "name": "BBBtesttoken",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "BBB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

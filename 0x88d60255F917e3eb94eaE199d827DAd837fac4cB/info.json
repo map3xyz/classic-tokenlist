@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x88d60255F917e3eb94eaE199d827DAd837fac4cB",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "fdbbc7fa-5b08-4eee-b365-87aea2bc5f14",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x88d60255F917e3eb94eaE199d827DAd837fac4cB"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0x88d60255F917e3eb94eaE199d827DAd837fac4cB/logo.png"
+  },
+  "name": "Gastoken.io",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "GST1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

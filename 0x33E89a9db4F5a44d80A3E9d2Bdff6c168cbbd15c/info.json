@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x33E89a9db4F5a44d80A3E9d2Bdff6c168cbbd15c",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "d714c71b-1715-458f-b2c8-b1cb9875b080",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x33E89a9db4F5a44d80A3E9d2Bdff6c168cbbd15c"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0x33E89a9db4F5a44d80A3E9d2Bdff6c168cbbd15c/logo.png"
+  },
+  "name": "Slyike",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "SLYG1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x5eB99507170F41bAA521cb71C9bCEa2a8A96827C",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "2e328c43-75f2-44c8-975b-abc5e6a4337c",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x5eB99507170F41bAA521cb71C9bCEa2a8A96827C"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0x5eB99507170F41bAA521cb71C9bCEa2a8A96827C/logo.png"
+  },
+  "name": "Axiom",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "XOM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

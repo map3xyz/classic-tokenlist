@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x64fd6EeB4c86A66b0CfeEAFeC11FbC57A2993E67",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "7533018c-2652-41d9-af96-0b2012157ad3",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x64fd6EeB4c86A66b0CfeEAFeC11FbC57A2993E67"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0x64fd6EeB4c86A66b0CfeEAFeC11FbC57A2993E67/logo.png"
+  },
+  "name": "BitUnits Indo",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "XNDO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

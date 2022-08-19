@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xD1c10d433C888E6d1841fF924d0CE45157f0d5Cd",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "cbbff7d4-af30-4d98-9b98-e998fadeb0cc",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xD1c10d433C888E6d1841fF924d0CE45157f0d5Cd"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0xD1c10d433C888E6d1841fF924d0CE45157f0d5Cd/logo.png"
+  },
+  "name": "BitUnits",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "UNITS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

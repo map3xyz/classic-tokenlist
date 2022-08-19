@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xa8d3847f8AE1e8ebfD5928D39A3B1aE5dA12A61f",
+  "color": null,
+  "decimals": 16,
+  "description": null,
+  "id": "aaa5185f-cfb7-465e-8283-137e237e5e11",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xa8d3847f8AE1e8ebfD5928D39A3B1aE5dA12A61f"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0xa8d3847f8AE1e8ebfD5928D39A3B1aE5dA12A61f/logo.png"
+  },
+  "name": "Coinibal",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "COIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

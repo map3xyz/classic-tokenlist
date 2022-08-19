@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xdEb7ade9417f98AFbB60cd6b4a49d4B002AB79c9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "494eb1e7-3a50-4f05-b2bb-9f9e773b1295",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xdEb7ade9417f98AFbB60cd6b4a49d4B002AB79c9"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0xdEb7ade9417f98AFbB60cd6b4a49d4B002AB79c9/logo.png"
+  },
+  "name": "BitUnits Jamaica",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "BJAM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

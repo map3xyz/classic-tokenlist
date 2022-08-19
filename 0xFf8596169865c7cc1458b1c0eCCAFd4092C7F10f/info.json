@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xFf8596169865c7cc1458b1c0eCCAFd4092C7F10f",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "69e1ae6e-cc4e-486c-aa2e-e3dc7cca888f",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xFf8596169865c7cc1458b1c0eCCAFd4092C7F10f"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0xFf8596169865c7cc1458b1c0eCCAFd4092C7F10f/logo.png"
+  },
+  "name": "Dogecoin Classic Token",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "DOGECT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

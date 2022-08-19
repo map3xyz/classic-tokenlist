@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xC68dDd84fDC77506A5b7AB43B8E13DBA0AF74Ff4",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "a332cedb-fc0d-413c-8ff0-0d1a3e49b034",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xC68dDd84fDC77506A5b7AB43B8E13DBA0AF74Ff4"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0xC68dDd84fDC77506A5b7AB43B8E13DBA0AF74Ff4/logo.png"
+  },
+  "name": "Princess Xole",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "PXG1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

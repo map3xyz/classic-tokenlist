@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x4970515788ab15d4De4E9f8ed1E1079f6d25dC77",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "0368de5f-2441-4600-ab7d-8c7dfd9066d3",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x4970515788ab15d4De4E9f8ed1E1079f6d25dC77"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0x4970515788ab15d4De4E9f8ed1E1079f6d25dC77/logo.png"
+  },
+  "name": "Treeigh",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "TREEG1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

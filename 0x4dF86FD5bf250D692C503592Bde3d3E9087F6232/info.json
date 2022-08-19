@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x4dF86FD5bf250D692C503592Bde3d3E9087F6232",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "c89f544c-d29f-45e6-83c5-39d1f77a5e2b",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x4dF86FD5bf250D692C503592Bde3d3E9087F6232"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0x4dF86FD5bf250D692C503592Bde3d3E9087F6232/logo.png"
+  },
+  "name": "AITBot Token",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "AITBOT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x6A37eC2C49E2FB35F9c029128e996f46928dDecC",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "30abcfdd-ccf5-4f9c-b34e-969eedf8de30",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x6A37eC2C49E2FB35F9c029128e996f46928dDecC"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0x6A37eC2C49E2FB35F9c029128e996f46928dDecC/logo.png"
+  },
+  "name": "Buy Crypto News Articles",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "BCNA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": false,
+  "address": "0xE0B7927c4aF23765Cb51314A0E0521A9645F0E2A",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "1f0e627e-5f8a-45ac-8ba4-d1c8b63c4846",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xE0B7927c4aF23765Cb51314A0E0521A9645F0E2A"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0xE0B7927c4aF23765Cb51314A0E0521A9645F0E2A/logo.png"
+  },
+  "name": "?",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "?",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

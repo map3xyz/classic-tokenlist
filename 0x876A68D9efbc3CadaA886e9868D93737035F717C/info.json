@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x876A68D9efbc3CadaA886e9868D93737035F717C",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "fccc774e-a7c3-433b-8ac1-954bfb77737f",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x876A68D9efbc3CadaA886e9868D93737035F717C"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0x876A68D9efbc3CadaA886e9868D93737035F717C/logo.png"
+  },
+  "name": "WiiggoCoin",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "WIIG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

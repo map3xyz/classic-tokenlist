@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x15c56f9edE6a53AFaFF8505D88F47B03b57B52AB",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "26ddc7b7-0133-41b0-95d9-cea7557c3f91",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x15c56f9edE6a53AFaFF8505D88F47B03b57B52AB"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0x15c56f9edE6a53AFaFF8505D88F47B03b57B52AB/logo.png"
+  },
+  "name": "Neuron",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "NRNG1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

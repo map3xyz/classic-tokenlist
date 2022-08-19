@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x9aBcecb1CB8e174b4d158021c9C710c81a989487",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "21295714-d26a-4558-b366-8b2604f81646",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x9aBcecb1CB8e174b4d158021c9C710c81a989487"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0x9aBcecb1CB8e174b4d158021c9C710c81a989487/logo.png"
+  },
+  "name": "Feyloo",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "LOOG1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

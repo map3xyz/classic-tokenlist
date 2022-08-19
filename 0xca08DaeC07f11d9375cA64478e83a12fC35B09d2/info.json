@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xca08DaeC07f11d9375cA64478e83a12fC35B09d2",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "33d4ab9a-2a20-431a-8f9b-35edf9cfb9cb",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xca08DaeC07f11d9375cA64478e83a12fC35B09d2"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0xca08DaeC07f11d9375cA64478e83a12fC35B09d2/logo.png"
+  },
+  "name": "MoneroToken",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "XMRT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x0b6f824FAB88281ea8bd883bdfC1F586743F92FA",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "24445289-f4ea-47bc-a878-ff7031004239",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x0b6f824FAB88281ea8bd883bdfC1F586743F92FA"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0x0b6f824FAB88281ea8bd883bdfC1F586743F92FA/logo.png"
+  },
+  "name": "Candy Classic",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "CANDY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x22B3f1d789B189fDd2040d7d5B59568a291Ef611",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "6a705b51-dd22-41f3-b098-1a048c50eb1a",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x22B3f1d789B189fDd2040d7d5B59568a291Ef611"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0x22B3f1d789B189fDd2040d7d5B59568a291Ef611/logo.png"
+  },
+  "name": "Searyver",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "SEAG1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
