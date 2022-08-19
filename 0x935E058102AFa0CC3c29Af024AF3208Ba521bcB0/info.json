@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x935E058102AFa0CC3c29Af024AF3208Ba521bcB0",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "5c86d99e-0088-4614-a399-2b88bcd6467f",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x935E058102AFa0CC3c29Af024AF3208Ba521bcB0"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0x935E058102AFa0CC3c29Af024AF3208Ba521bcB0/logo.png"
+  },
+  "name": "Leafekey",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "KEYG1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

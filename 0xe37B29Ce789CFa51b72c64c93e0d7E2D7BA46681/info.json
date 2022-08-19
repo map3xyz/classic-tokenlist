@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xe37B29Ce789CFa51b72c64c93e0d7E2D7BA46681",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "65f19106-b26a-40f5-81d9-b18de878a9c9",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xe37B29Ce789CFa51b72c64c93e0d7E2D7BA46681"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0xe37B29Ce789CFa51b72c64c93e0d7E2D7BA46681/logo.png"
+  },
+  "name": "Prince Draieo",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "PDG1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

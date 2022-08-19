@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x45e42D659D9f9466cD5DF622506033145a9b89Bc",
+  "color": null,
+  "decimals": 3,
+  "description": null,
+  "id": "19edbe02-e9a2-4253-ae38-1a94744b9cd9",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x45e42D659D9f9466cD5DF622506033145a9b89Bc"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0x45e42D659D9f9466cD5DF622506033145a9b89Bc/logo.png"
+  },
+  "name": "Nexium",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "NxC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x651074850053b7FaCf7F7200068B29A2E3525B40",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "a1fe9f71-1b8c-4dd3-9cf1-6b1a212e08bc",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x651074850053b7FaCf7F7200068B29A2E3525B40"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0x651074850053b7FaCf7F7200068B29A2E3525B40/logo.png"
+  },
+  "name": "Astral Gold",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "GOLD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

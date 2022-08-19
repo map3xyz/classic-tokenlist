@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x9946C9C519638740EAc4Ee3Aa9f20eBe1Ce36c2c",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "c227c71f-96f7-4d0f-ab03-a170c0adb761",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x9946C9C519638740EAc4Ee3Aa9f20eBe1Ce36c2c"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0x9946C9C519638740EAc4Ee3Aa9f20eBe1Ce36c2c/logo.png"
+  },
+  "name": "Aim Token",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "AIM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

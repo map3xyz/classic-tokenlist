@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x085B0FDf115aA9E16AE1Bddd396CE1F993c52220",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "004e4600-b44f-47eb-a22c-5d58b4cac826",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x085B0FDf115aA9E16AE1Bddd396CE1F993c52220"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0x085B0FDf115aA9E16AE1Bddd396CE1F993c52220/logo.png"
+  },
+  "name": "ONEX Network",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "ONEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

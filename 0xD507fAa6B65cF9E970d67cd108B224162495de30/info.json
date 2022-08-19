@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xD507fAa6B65cF9E970d67cd108B224162495de30",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "5ac58d96-033c-4b99-9dde-5c913d899e9b",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xD507fAa6B65cF9E970d67cd108B224162495de30"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0xD507fAa6B65cF9E970d67cd108B224162495de30/logo.png"
+  },
+  "name": "Arcadium Classic",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "ACD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x6FD253A6D78df35f2D932aCf4bCEF4bB650a2263",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0cd650a0-805f-49d4-b084-ed60bdd664b1",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x6FD253A6D78df35f2D932aCf4bCEF4bB650a2263"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0x6FD253A6D78df35f2D932aCf4bCEF4bB650a2263/logo.png"
+  },
+  "name": "BitUnits Africa",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "AFRI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

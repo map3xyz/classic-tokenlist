@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x1178d40896cf784Db203eB40f159D78Ab6E99a29",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "43728d7c-9e99-4611-b4b6-936c344c2fb1",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x1178d40896cf784Db203eB40f159D78Ab6E99a29"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0x1178d40896cf784Db203eB40f159D78Ab6E99a29/logo.png"
+  },
+  "name": "iETC",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "iETC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

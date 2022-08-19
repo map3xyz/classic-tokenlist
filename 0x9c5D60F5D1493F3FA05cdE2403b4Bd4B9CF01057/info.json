@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x9c5D60F5D1493F3FA05cdE2403b4Bd4B9CF01057",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6d7492af-7ca3-4f11-803c-6e8a3abb1bf0",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x9c5D60F5D1493F3FA05cdE2403b4Bd4B9CF01057"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0x9c5D60F5D1493F3FA05cdE2403b4Bd4B9CF01057/logo.png"
+  },
+  "name": "BitUnits Americas",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "AMRX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

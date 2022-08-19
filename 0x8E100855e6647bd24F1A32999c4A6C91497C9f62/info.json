@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x8E100855e6647bd24F1A32999c4A6C91497C9f62",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "707e3602-7cd8-4b95-aec8-7926b80e2d3e",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x8E100855e6647bd24F1A32999c4A6C91497C9f62"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0x8E100855e6647bd24F1A32999c4A6C91497C9f62/logo.png"
+  },
+  "name": "G Coin",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "GTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

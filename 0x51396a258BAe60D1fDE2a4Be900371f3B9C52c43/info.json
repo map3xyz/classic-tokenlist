@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x51396a258BAe60D1fDE2a4Be900371f3B9C52c43",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "922e6e1e-17cc-49f4-8369-10739a0b4b32",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x51396a258BAe60D1fDE2a4Be900371f3B9C52c43"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0x51396a258BAe60D1fDE2a4Be900371f3B9C52c43/logo.png"
+  },
+  "name": "BitUnits Asia",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "XSIA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

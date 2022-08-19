@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x3398EB75EE22523fEfdA99574dBc62fD19F8c58B",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "917779ab-eda8-49f7-907e-95c441069036",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x3398EB75EE22523fEfdA99574dBc62fD19F8c58B"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0x3398EB75EE22523fEfdA99574dBc62fD19F8c58B/logo.png"
+  },
+  "name": "Arcadium Token",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "ACDN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

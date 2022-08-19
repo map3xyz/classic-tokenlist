@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xFC07d3E0e36330a151c09384C3aD45e745227688",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "14ee2893-e6c4-4d21-acd0-accbc44e035a",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xFC07d3E0e36330a151c09384C3aD45e745227688"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0xFC07d3E0e36330a151c09384C3aD45e745227688/logo.png"
+  },
+  "name": "Highlander",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "ONE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

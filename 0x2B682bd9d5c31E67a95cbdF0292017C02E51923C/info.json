@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x2B682bd9d5c31E67a95cbdF0292017C02E51923C",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "98739f76-4ea3-43fa-9c7f-597a74359dd7",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x2B682bd9d5c31E67a95cbdF0292017C02E51923C"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0x2B682bd9d5c31E67a95cbdF0292017C02E51923C/logo.png"
+  },
+  "name": "Ether Klown",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "KLOWN2",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

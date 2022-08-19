@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x17CDb23E6151Dca9A75457d3d795CC5A63648949",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "9e5fd260-5a8d-4d75-b73b-88036a20aa7d",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x17CDb23E6151Dca9A75457d3d795CC5A63648949"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0x17CDb23E6151Dca9A75457d3d795CC5A63648949/logo.png"
+  },
+  "name": "Uzel",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "UZG1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

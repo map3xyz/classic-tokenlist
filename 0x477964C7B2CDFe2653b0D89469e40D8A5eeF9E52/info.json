@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x477964C7B2CDFe2653b0D89469e40D8A5eeF9E52",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "de0c3a96-bd31-450b-925b-f119348c7d6a",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x477964C7B2CDFe2653b0D89469e40D8A5eeF9E52"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0x477964C7B2CDFe2653b0D89469e40D8A5eeF9E52/logo.png"
+  },
+  "name": "Dredxon",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "DRXG1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x9bd05bCd368BDB8050E85E35b8D38753e72b44BF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "82704ecf-0f11-4bee-a4ea-1a76f5cb56d9",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x9bd05bCd368BDB8050E85E35b8D38753e72b44BF"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0x9bd05bCd368BDB8050E85E35b8D38753e72b44BF/logo.png"
+  },
+  "name": "Arcadium Oxide",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "AOX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

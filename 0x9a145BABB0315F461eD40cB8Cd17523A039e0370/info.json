@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x9a145BABB0315F461eD40cB8Cd17523A039e0370",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "1d7bb67f-84f4-447f-8ff9-94c7ef4a8af1",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x9a145BABB0315F461eD40cB8Cd17523A039e0370"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0x9a145BABB0315F461eD40cB8Cd17523A039e0370/logo.png"
+  },
+  "name": "Astral Diamonds",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "Astral",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

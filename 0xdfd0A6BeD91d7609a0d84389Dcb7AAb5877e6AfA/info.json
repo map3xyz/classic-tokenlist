@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xdfd0A6BeD91d7609a0d84389Dcb7AAb5877e6AfA",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "b73748ce-5ed7-4a25-aacd-2dc7fc85b884",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xdfd0A6BeD91d7609a0d84389Dcb7AAb5877e6AfA"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0xdfd0A6BeD91d7609a0d84389Dcb7AAb5877e6AfA/logo.png"
+  },
+  "name": "Gawks",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "GKG1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

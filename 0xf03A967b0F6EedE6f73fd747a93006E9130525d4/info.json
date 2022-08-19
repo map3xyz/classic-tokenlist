@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xf03A967b0F6EedE6f73fd747a93006E9130525d4",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "5296ae93-4c3b-4c09-9882-3a45473951ef",
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xf03A967b0F6EedE6f73fd747a93006E9130525d4"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/classic/assets/classic-tokenlist/0xf03A967b0F6EedE6f73fd747a93006E9130525d4/logo.png"
+  },
+  "name": "Atlantis",
+  "networkCode": "classic",
+  "spam": false,
+  "symbol": "eFork",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
